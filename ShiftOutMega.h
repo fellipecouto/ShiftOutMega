@@ -20,6 +20,6 @@ class ShiftOutMega{
 		void shiftOut(byte dataOut);
 		String decToBin(int myNum);
 		int binToDec(String b);
-		int potencia(int b, int e);
+		int potency(int b, int e);
 };
 #endif
