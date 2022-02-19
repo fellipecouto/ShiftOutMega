@@ -1,10 +1,10 @@
-/*-----------------------------------------------------------------------
- Programa : SHIFTOUTMEGA
- Descr    : Biblioteca para controlar portas adicionais OUTPUT do Arduino 
-			utilizando o CI registrador de deslocamento 74HC595
- Autor    : Fellipe Couto [ http://www.efeitonerd.com.br ]
- Data     : 17/09/2012
- -----------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------
+  Program  : ShiftOutMega
+  Descr    : Library to control additional digital ports using CI 74HC595
+  Author   : Fellipe Couto [ http://www.efeitonerd.com.br ]
+  GitHub   : https://github.com/fellipecouto/ShiftOutMega
+  Date     : 2012-09-17
+  ------------------------------------------------------------------------------*/
 #ifndef ShiftOutMega_h  
 #define ShiftOutMega_h  
 #include "Arduino.h"
